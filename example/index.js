@@ -1,5 +1,8 @@
 "use strict";
 
-const bloggifyRendererTljs = require("../lib");
+/*
+  This renderer will handle `.tljs` files.
+  // Use template literals, like in JS.
 
-console.log(bloggifyRendererTljs());
+  Hello ${world}!
+*/
