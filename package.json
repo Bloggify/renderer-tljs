@@ -1,0 +1,43 @@
+{
+  "name": "bloggify-renderer-tljs",
+  "description": "Render template literal templates.",
+  "keywords": [
+    "bloggify",
+    "renderer",
+    "tljs",
+    "render",
+    "template",
+    "literal",
+    "templates"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/bloggify-renderer-tljs#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-renderer-tljs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bloggify-renderer-tljs/issues"
+  }
+}
