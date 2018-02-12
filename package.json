@@ -16,8 +16,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/bloggify-renderer-tljs#readme",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
+  "homepage": "https://github.com/Bloggify/renderer-tljs#readme",
   "files": [
     "bin/",
     "app/",
@@ -35,9 +35,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-renderer-tljs.git"
+    "url": "git+ssh://git@github.com/Bloggify/renderer-tljs.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-renderer-tljs/issues"
+    "url": "https://github.com/Bloggify/renderer-tljs/issues"
+  },
+  "dependencies": {
+    "template-literal": "^1.0.3"
   }
 }
